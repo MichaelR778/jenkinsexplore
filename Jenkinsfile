@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage("Stage 1"){
             steps {
-                echo "Hello from github repo"
+                echo "Changes have been made"
             }
         }
     }
