@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage("Stage 1"){
             steps {
-                echo "branch two ?"
+                echo "branch two for sure"
             }
         }
     }
